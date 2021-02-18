@@ -1,0 +1,15 @@
+.p {
+    text-align: center;
+    font-size: x-large;
+    font-family: "calibri";
+}
+
+#p {
+    text-align: center;
+}
+
+div {
+    color: black;
+    font-size: medium;
+    font-family: "Times New Roman";
+}
